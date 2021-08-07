@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.1da82db0.chunk.css",
+    "main.js": "/assignment/static/js/main.90f2f5a0.chunk.js",
+    "main.js.map": "/assignment/static/js/main.90f2f5a0.chunk.js.map",
+    "runtime-main.js": "/assignment/static/js/runtime-main.34ef45e7.js",
+    "runtime-main.js.map": "/assignment/static/js/runtime-main.34ef45e7.js.map",
+    "static/css/2.983f79de.chunk.css": "/assignment/static/css/2.983f79de.chunk.css",
+    "static/js/2.067fe3e1.chunk.js": "/assignment/static/js/2.067fe3e1.chunk.js",
+    "static/js/2.067fe3e1.chunk.js.map": "/assignment/static/js/2.067fe3e1.chunk.js.map",
+    "index.html": "/assignment/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/assignment/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.1da82db0.chunk.css.map": "/assignment/static/css/main.1da82db0.chunk.css.map",
+    "static/js/2.067fe3e1.chunk.js.LICENSE.txt": "/assignment/static/js/2.067fe3e1.chunk.js.LICENSE.txt",
+    "static/media/Rectangle19.aa3ab90e.png": "/assignment/static/media/Rectangle19.aa3ab90e.png",
+    "static/media/bag.ebd0587b.png": "/assignment/static/media/bag.ebd0587b.png",
+    "static/media/nav.css": "/assignment/static/media/image 32image.57807a48.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34ef45e7.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.067fe3e1.chunk.js",
+    "static/css/main.1da82db0.chunk.css",
+    "static/js/main.90f2f5a0.chunk.js"
+  ]
+}
