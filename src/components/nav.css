@@ -1,0 +1,189 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+}
+.wrapper {
+  width: 95%;
+  margin: 0 auto;
+}
+header {
+  height: 100px;
+  background: #ffffff;
+
+  width: 100%;
+  z-index: 10;
+  position: fixed;
+}
+.logo {
+  float: left;
+  margin-top: 35px;
+}
+
+.bold {
+  font-weight: bold;
+}
+.logo a {
+  text-decoration: none;
+  font-size: 15px;
+  font-family: sans-serif;
+  color: black;
+
+  padding-right: 70px;
+}
+nav {
+  float: right;
+  margin-top: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 15px;
+  margin: 0 10px;
+  color: black;
+  padding-left: 20px;
+}
+.banner-area {
+  width: 100%;
+  height: 450px;
+  position: absolute;
+  top: 100px;
+  background-image: url("./files/image\ 32image.png");
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+}
+.banner-area h2 {
+  padding-top: 8%;
+  font-size: 70px;
+  font-family: poppins;
+  text-transform: uppercase;
+  color: #fff;
+}
+.content-area {
+  width: 100%;
+  position: relative;
+  top: 550px;
+  background: #ebebeb;
+  height: 1500px;
+}
+.content-area h2 {
+  font-family: poppins;
+  letter-spacing: 4px;
+  padding-top: 30px;
+  font-size: 40px;
+  margin: 0;
+}
+.content-area p {
+  padding: 2% 0px;
+  font-family: poppins;
+  line-height: 30px;
+}
+
+.button {
+  background-image: linear-gradient(to right, #ff9966, #ff5e62);
+  border: 1.5px solid;
+  border-color: none;
+  border-radius: 2em;
+  padding: 0.6rem 1.5rem;
+  font-size: 13px;
+  color: white;
+  cursor: pointer;
+}
+
+.banner_contents {
+  margin: auto;
+  width: 40%;
+  padding: 60px;
+  height: 340px;
+  margin-top: 60px;
+
+  background-color: rgb(0, 0, 54, 0.5);
+}
+
+.banner_title {
+  font-size: 2.7rem;
+  font-weight: 540;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  padding-bottom: 0.3rem;
+  color: white;
+}
+
+.banner_description {
+  padding: 20px;
+  line-height: 30px;
+  font-size: 1rem;
+  color: white;
+}
+
+.banner_buttons {
+  text-align: center;
+}
+
+.banner_button {
+  background-image: linear-gradient(to right, #ff9966, #ff5e62);
+  border: none;
+  border-radius: 2em;
+  padding: 0.6rem 1.5rem;
+  font-size: 13px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.cards {
+  width: 30rem;
+  background-color: white;
+}
+
+.Content {
+  width: 70%;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.cardbody {
+  text-align: center;
+  padding: 40px 60px 40px 60px;
+}
+
+.card-title {
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Arial;
+  line-height: 50px;
+}
+
+.cardtext {
+  font-size: 18px;
+}
+
+.btn-outline-dark {
+  font-weight: 500;
+  border-radius: 30px;
+}
+
+.buttons {
+  background-color: #4caf50; /* Green */
+  border: none;
+  border-radius: 50px;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.buttons-card {
+  background-color: white;
+  color: rgb(4, 0, 63);
+  border: 2px solid #555555;
+}
